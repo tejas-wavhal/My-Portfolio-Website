@@ -1,0 +1,50 @@
+[
+    {
+        "name": "E-Shop",
+        "img": "https://i.postimg.cc/pr2CNX37/Screenshot-2022-12-06-at-18-45-04-React-App.png",
+        "discription": "E-Commerce Website Front-End made using HTML, CSS, BOOTSTRAP, REACT JS where you can see Products and check the detail of it. The Products in this app is get from the external api. The State Management is done using CONTEXT API, USECONTEXT, USEREDUCER.",
+        "link":"https://eshopproducts01.netlify.app"
+    },
+    {
+        "name": "COC-Bases",
+        "img": "https://i.postimg.cc/7hwFBzDT/Screenshot-2022-12-06-at-18-59-57-COC-Bases.png",
+        "discription": "COC-Bases made using HTML, CSS, BOOTSTRAP, REACT JS where you can select you Townhall level and apply the base you like to you Clash of Clans Game.",
+        "link":"https://tejascocbase.netlify.app"
+    },
+    {
+        "name": "Tez-News",
+        "img": "https://i.postimg.cc/KzcPHH3h/Screenshot-2022-12-07-at-16-15-03-Tez-News-Entertainment.png",
+        "discription": "Tez-News made using HTML, CSS, BOOTSTRAP, REACT JS. The App is made with the help of News API where you can Check and Read Latest News of Sports, Entertainment, Science, etc by selecting your Category.",
+        "link":""
+    },
+    {
+        "name": "NFT-Exchange",
+        "img": "https://i.postimg.cc/gksFQxLV/Screenshot-2022-12-05-at-14-04-08-NFT-Exchange.png",
+        "discription": "NFT-Exchange made using HTML, CSS, BOOTSTRAP, REACT JS where you can buy and sell your NFT with Bitcoin and make you Profit as per you trading stratergy.",
+        "link":"https://nftexchange01.netlify.app"
+    },
+    {
+        "name": "Check-Weather",
+        "img": "https://i.postimg.cc/DyLH38Wj/Screenshot-2022-12-04-at-21-42-40-React-App.png",
+        "discription": "Check-Weather made using HTML, CSS, REACT JS. The App is made with the help of Weather API where you can Check the Weather of Every State Inside or Outside India by simply searching the State.",
+        "link":"https://checkweather01.netlify.app"
+    },
+    {
+        "name": "Netflix-Clone",
+        "img": "https://i.postimg.cc/LXJQCXKV/Screenshot-2022-12-04-at-20-40-20-React-App.png",
+        "discription": "Netflix-Clone made using HTML, SCSS, REACT JS. The DRY (Do not Repeat} Concepts of React Js is Applied Where all the Movie Posters in this App is just One Single Component as React Js is all about Components.",
+        "link":"https://netflixcone.netlify.app"
+    },
+    {
+        "name": "To Do List",
+        "img": "https://i.postimg.cc/SRDrmbhK/Screenshot-2022-12-06-at-18-46-09-To-do-List.png",
+        "discription": "To Do List is a Basic and Simple Project made using HTML, CSS, REACT JS. Where you can add you Notes/To do items and Delete it if you Want.",
+        "link":"https://todolistt01.netlify.app"
+    },
+    {
+        "name": "Text-Converter",
+        "img": "https://i.postimg.cc/KcNQPBMy/Screenshot-2022-12-06-at-18-46-56-Text-Converter-Home.png",
+        "discription": "Text-Converter is a Basic and Simple Project made using HTML, CSS, REACT JS. This App is very Useful for you Projects and been very Useful for me through out my Coding Journey. This App Converts your Text into Capital / Small Letters and Remove Extra Spaces Between Text.",
+        "link":"https://textconverter01.netlify.app"
+    }
+]
